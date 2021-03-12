@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/repy_v2 (2)/repy_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repy_v2 (2)/repy_v2/DEPENDENCIES/affix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repy_v2 (2)/repy_v2/DEPENDENCIES/common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repy_v2 (2)/repy_v2/DEPENDENCIES/portability" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repy_v2 (2)/repy_v2/DEPENDENCIES/seash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repy_v2 (2)/repy_v2/DEPENDENCIES/seattlelib_v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repy_v2 (2)/repy_v2/DEPENDENCIES/utf" vcs="Git" />
+  </component>
+</project>
